@@ -1,0 +1,12 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "email": "johndoe@example.com",
+    "address": {
+        "street": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "test_sequence_id": "123"
+    },
+    "hobbies": ["reading", "traveling", "cooking"]
+}
